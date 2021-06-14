@@ -1,5 +1,5 @@
 # Decision-Tree-Algorithm
-Prediction using Decision Tree  Algorithm
+_Prediction using Decision Tree  Algorithm (GRIP - The Sparks Foundation)_
 
 1> Create the Decision Tree classifier and visualize it graphically.
 
